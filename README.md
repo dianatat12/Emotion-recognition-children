@@ -17,8 +17,6 @@ This study explores two primary hypotheses:
 - **EmoReact**: An open dataset, filtered for young children.
 - **App2Five**: A custom dataset collected in a prior study.
 
-Before labeling, two training sessions were conducted with Williams and Lucrezia, where we developed a codebook to ensure consistent labeling.
-
 ## Findings
 
 ### Hypothesis 1
